@@ -24,13 +24,13 @@ The project uses the **phonenumbers** library for parsing number details, the **
 ## 📂 Project Structure
 
 
-## Project Structure
 📁 PhoneNumberTracker
-│── 📄 main.py         # Main script (runs the tracker)
-│── 📄 myPhone.py      # Stores the phone number
-│── 📄 myLocation.html # Generated output map (after running main.py)
-│── 📁 .venv           # Virtual environment (dependencies)
-│── 📄 README.md       # Project documentation
+
+    │── 📄 main.py         # Main script (runs the tracker)
+    │── 📄 myPhone.py      # Stores the phone number
+    │── 📄 myLocation.html # Generated output map (after running main.py)
+    │── 📁 .venv           # Virtual environment (dependencies)
+    │── 📄 README.md       # Project documentation
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
@@ -65,11 +65,6 @@ The project uses the **phonenumbers** library for parsing number details, the **
     myLocation.html
 
 8. Open it in your browser to view the tracked location.
-
-
-
-
-
 
 
 **Screenshot (Console Output):**
